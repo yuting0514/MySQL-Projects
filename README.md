@@ -1,5 +1,5 @@
 # MySQL-Projects/Nashville Housing Data Cleaning
-This project only has the data cleaning process, including remove duplicates, split names, standardizing date format, etc. \n
+This project only has the data cleaning process, including remove duplicates, split names, standardizing date format, etc.
 The "Nashville Housing Data for Data Cleaning.sql" file is the raw data in sql format.
 The "Data Cleaning.sql" file contains MySQL codes for the data cleaning process.
 
